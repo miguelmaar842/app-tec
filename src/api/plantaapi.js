@@ -1,0 +1,1 @@
+export const plantaapi ="Estamos buscando si hay api y si no encontramos talvez se cree uno en firebase"
